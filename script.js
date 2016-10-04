@@ -1,1 +1,4 @@
-console.log("Hey, this works.");
+var test= function() {
+  console.log("Hey, this works");
+}
+test();
